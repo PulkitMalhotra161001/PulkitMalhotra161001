@@ -5,11 +5,14 @@
 
 ---
 
-[![Linkedin: anmol](https://img.shields.io/badge/Twitter-1DA1F2?style=github_dark&logo=twitter&logoColor=white)](https://www.linkedin.com/in/thepulkitmalhotra/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=github_dark&logo=twitter&logoColor=white)](https://twitter.com/PulkitMalhotraa)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=github_dark&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepulkitmalhotra/)
+[![Youtube](https://img.shields.io/badge/Youtube-ff2c2c?style=github_dark&logo=youtube&logoColor=white)](https://www.youtube.com/c/PulkitMalhotra)
 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=github_dark&logo=twitter&logoColor=white);
-![Youtube](https://img.shields.io/badge/Youtube-ff2c2c?style=github_dark&logo=youtube&logoColor=white);
-![LinkedIn](https://img.shields.io/badge/Linkedin-0077b5?style=github_dark&logo=linkedin&logoColor=white);
+
+![Twitter];
+![Youtube];
+![LinkedIn](;
 
 <a href="https://www.youtube.com/c/PulkitMalhotra">
   <code><img  height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>

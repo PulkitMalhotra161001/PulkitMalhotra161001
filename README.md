@@ -19,7 +19,6 @@
 
 
 
-
 <!-- <a href="https://www.youtube.com/c/PulkitMalhotra">
   <code><img  height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
 </a>
@@ -54,5 +53,3 @@
 | ![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) |
 | --- | --- |
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>

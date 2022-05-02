@@ -1,5 +1,5 @@
 ## Hello, I'm Pulkit Malhotra <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 *I am a Self-Taught Programmer from India.*
 
 ---

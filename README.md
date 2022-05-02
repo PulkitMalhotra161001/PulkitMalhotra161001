@@ -13,9 +13,8 @@
 ### 💬 About Me
 
 - 🏫 2023 Passout
-
 - 🧑‍💻 Android Developer
-
+- 😎 Hackerearth Campus Ambassador
 - ✅ 700+ DSA Questions Solved
 
 

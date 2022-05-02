@@ -14,6 +14,7 @@
 
 - 🏫 2023 Passout
 - 🧑‍💻 Android Developer
+- ⭐ 5-star HackerRank
 - 😎 Hackerearth Campus Ambassador
 - ✅ 700+ DSA Questions conquered
 

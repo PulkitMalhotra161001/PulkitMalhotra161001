@@ -1,8 +1,16 @@
-### Hi there 👋
+![Front Image](./Assets/Pulkit%20Malhotra.png)
 
-![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true)
-![Front Image](./Assets/Pulkit Malhotra.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats)
+I am a Self-Taught Programmer from India.
+
+**About Me**
+
+- 🏫 CSE 2023 Passout
+
+- 🧑‍💻 Andoird Developer
+
+| ![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) |
+| --- | --- |
+
 <!--
 **PulkitMalhotra161001/PulkitMalhotra161001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,10 +10,6 @@
 [![Youtube](https://img.shields.io/badge/Youtube-ff2c2c?style=github_dark&logo=youtube&logoColor=white)](https://www.youtube.com/c/PulkitMalhotra)
 
 
-![Twitter];
-![Youtube];
-![LinkedIn](;
-
 <a href="https://www.youtube.com/c/PulkitMalhotra">
   <code><img  height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
 </a>

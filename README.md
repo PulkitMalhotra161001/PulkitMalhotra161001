@@ -1,7 +1,7 @@
 ## Hello, I'm Pulkit Malhotra <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-*I am a Self-Taught Programmer from India.*
+*I am a 2023 Passout Self-Taught Programmer from India.*
 
 ---
 
@@ -10,7 +10,6 @@
 [![Youtube](https://img.shields.io/badge/Youtube-ff2c2c?style=github_dark&logo=youtube&logoColor=white)](https://www.youtube.com/c/PulkitMalhotra)
 
 ### 💬 About Me
-- 🏫 2023 Passout
 - 🧑‍💻 Android Developer
 - ⭐ 5-star HackerRank
 - 😎 Hackerearth Campus Ambassador

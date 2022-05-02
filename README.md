@@ -15,23 +15,13 @@
 - 🏫 2023 Passout
 - 🧑‍💻 Android Developer
 - 😎 Hackerearth Campus Ambassador
-- ✅ 700+ DSA Questions Solved
+- ✅ 700+ DSA Questions conquered
 
 
-
-<!-- <a href="https://www.youtube.com/c/PulkitMalhotra">
-  <code><img  height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
-</a>
-<a href="https://twitter.com/PulkitMalhotraa">
-  <code><img height="40" width="40" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
-</a>
-<a href="https://www.linkedin.com/in/thepulkitmalhotra/">
-  <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
-</a> -->
 ---
 
 <p align="center">
-<!--   <H3> Coding Profile's </H3> -->
+  
   <a href="https://www.hackerrank.com/pulkit161001">
     <img height="30" width="120" src="https://img.shields.io/badge/hackerrank-000000?style=github_dark&logo=hackerrank&logoColor=white"/>
   </a>
@@ -47,6 +37,7 @@
   <a href="https://auth.geeksforgeeks.org/user/pulkit161001/profile" target="_blank">
     <img height="30" width="120" src="https://img.shields.io/badge/geeksforgeeks-000000?style=github_dark&logo=geeksforgeeks&logoColor=white"/>
   </a>
+  
 </p>
 
 

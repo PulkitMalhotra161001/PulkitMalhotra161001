@@ -1,4 +1,4 @@
-## Hello, I'm Pulkit Malhotra
+## Hello, I'm Pulkit Malhotra <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 *I am a Self-Taught Programmer from India.*
 

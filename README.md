@@ -14,7 +14,9 @@
 - ⭐ 5-star HackerRank
 - 😎 Hackerearth Campus Ambassador
 - ✅ 700+ DSA Questions conquered
+
 ---
+
 <p align="center">
   
   <a href="https://www.hackerrank.com/pulkit161001">
@@ -38,3 +40,12 @@
 
 | ![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) |
 | --- | --- |
+
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:pulkit161001@gmail.com'>pulkit161001@gmail.com</a>
+</p>

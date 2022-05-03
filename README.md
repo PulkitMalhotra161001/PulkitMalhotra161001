@@ -5,9 +5,9 @@
 
 ---
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=github_dark&logo=twitter&logoColor=white)](https://twitter.com/PulkitMalhotraa)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=github_dark&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepulkitmalhotra/)
-[![Youtube](https://img.shields.io/badge/Youtube-ff2c2c?style=github_dark&logo=youtube&logoColor=white)](https://www.youtube.com/c/PulkitMalhotra)
+[![PulkitMalhotraa](https://img.shields.io/badge/PulkitMalhotraa-1DA1F2?style=github_dark&logo=twitter&logoColor=white)](https://twitter.com/PulkitMalhotraa)
+[![thepulkitmalhotra](https://img.shields.io/badge/thepulkitmalhotra-0077b5?style=github_dark&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepulkitmalhotra/)
+[![PulkitMalhotra](https://img.shields.io/badge/PulkitMalhotra-ff2c2c?style=github_dark&logo=youtube&logoColor=white)](https://www.youtube.com/c/PulkitMalhotra)
 
 ### 💬 About Me
 - 🧑‍💻 Android Developer
@@ -18,19 +18,19 @@
 <p align="center">
   
   <a href="https://www.hackerrank.com/pulkit161001">
-    <img height="30" width="120" src="https://img.shields.io/badge/hackerrank-000000?style=github_dark&logo=hackerrank&logoColor=white"/>
+    <img height="30" width="120" src="https://img.shields.io/badge/hackerrank-080C12?style=github_dark&logo=hackerrank&logoColor=00EA64"/>
   </a>
 
   <a href="https://www.interviewbit.com/profile/pulkit161001">
-    <img height="30" width="120" src="https://img.shields.io/badge/interviewbit-000000?style=github_dark&logo=interviewbit&logoColor=white"/>
+    <img height="30" width="120" src="https://img.shields.io/badge/interviewbit-131313?style=github_dark&logo=reactrouter&logoColor=FFB94D"/>
   </a>
 
   <a href="https://leetcode.com/pulkit161001">
-    <img height="30" width="120" src="https://img.shields.io/badge/leetcode-000000?style=github_dark&logo=leetcode&logoColor=white"/>
+    <img height="30" width="120" src="https://img.shields.io/badge/leetcode-131313?style=github_dark&logo=leetcode&logoColor=F89F1B"/>
   </a>
 
   <a href="https://auth.geeksforgeeks.org/user/pulkit161001/profile" target="_blank">
-    <img height="30" width="120" src="https://img.shields.io/badge/geeksforgeeks-000000?style=github_dark&logo=geeksforgeeks&logoColor=white"/>
+    <img height="30" width="120" src="https://img.shields.io/badge/geeksforgeeks-080C12?style=github_dark&logo=geeksforgeeks&logoColor=11AB63"/>
   </a>
   
 </p>
@@ -38,4 +38,3 @@
 
 | ![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) |
 | --- | --- |
-

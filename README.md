@@ -20,7 +20,7 @@
 <p align="center">
   
   <a href="https://www.hackerrank.com/pulkit161001">
-    <img height="30" width="120" src="https://img.shields.io/badge/hackerrank-080C12?style=github_dark&logo=hackerrank&logoColor=00EA64"/>
+    <img height="30" width="120" src="https://img.shields.io/badge/HackerRank-080C12?style=github_dark&logo=hackerrank&logoColor=00EA64"/>
   </a>
 
   <a href="https://www.interviewbit.com/profile/pulkit161001">

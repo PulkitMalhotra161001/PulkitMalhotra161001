@@ -26,6 +26,10 @@
   <a href="https://www.interviewbit.com/profile/pulkit161001">
     <img height="30" width="120" src="https://img.shields.io/badge/InterviewBit-131313?style=github_dark&logo=reactrouter&logoColor=FFB94D"/>
   </a>
+  
+   <a href="https://www.codechef.com/users/pulkit161001">
+    <img height="30" width="120" src="https://img.shields.io/badge/CodeChef-131313?style=github_dark&logo=reactrouter&logoColor=FFB94D"/>
+  </a>
 
   <a href="https://leetcode.com/pulkit161001">
     <img height="30" width="120" src="https://img.shields.io/badge/LeetCode-131313?style=github_dark&logo=leetcode&logoColor=F89F1B"/>

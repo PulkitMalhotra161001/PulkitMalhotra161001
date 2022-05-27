@@ -1,5 +1,4 @@
 ## Hey there, I'm Pulkit Malhotra <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 *A 2023 Passout Self-Taught Programmer from Haryana, India.*
 
@@ -8,6 +7,7 @@
 [![PulkitMalhotraa](https://img.shields.io/badge/PulkitMalhotraa-1DA1F2?style=github_dark&logo=twitter&logoColor=white)](https://twitter.com/PulkitMalhotraa)
 [![thepulkitmalhotra](https://img.shields.io/badge/thepulkitmalhotra-0077b5?style=github_dark&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepulkitmalhotra/)
 [![PulkitMalhotra](https://img.shields.io/badge/PulkitMalhotra-ff2c2c?style=github_dark&logo=youtube&logoColor=white)](https://www.youtube.com/c/PulkitMalhotra)
+[![Pulkit_Malhotra](https://img.shields.io/badge/Pulkit_Malhotra-000000?style=github_dark&logo=medium&logoColor=FFFFFF)](https://medium.com/@Pulkit_Malhotra)
 
 ### 💬 About Me
 - 🧑‍💻 Android Developer

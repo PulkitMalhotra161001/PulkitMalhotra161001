@@ -65,10 +65,15 @@
 
 </p>
 
+<details>
+<summary>More Details</summary>
+
 <img src="https://github.com/PulkitMalhotra161001/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
 
 | ![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) |
 | --- | --- |
+ 
+
 
 
 
@@ -80,4 +85,4 @@
   📫 How to reach me: <a href='mailto:pulkit161001@gmail.com'>pulkit161001@gmail.com</a>
 </p>
 
-
+ </details>

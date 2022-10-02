@@ -8,7 +8,6 @@
 
 
 ### 💬 About Me
-- 🧑‍💻 Android Developer
 - 🥇 #1 coder in college on InterviewBit, GeeksForGeeks
 - ⭐ 5-star HackerRank & 3-star LeetCode
 - 😎 HackerEarth Campus Ambassador

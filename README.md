@@ -61,7 +61,7 @@
   </a>
 
 
-<!---  <img src="https://github.com/PulkitMalhotra161001/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg"> --->
+ <img src="https://github.com/PulkitMalhotra161001/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
 
 </p>
 

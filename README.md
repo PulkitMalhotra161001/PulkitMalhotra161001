@@ -8,7 +8,7 @@
 
 
 ### 💬 About Me
-- 🥇 Institute Rank 1 on CodeChef, CodeForces, GeeksForGeeks, InterviewBit
+- 🥇 Institute Rank 1 on CodeChef, CodeForces, GeeksforGeeks, InterviewBit
 - ⭐ 3-star CodeChef, 3-star LeetCode, 5-star HackerRank
 - 😎 HackerEarth Campus Ambassador
 - ✅ 1000+ DSA Questions conquered

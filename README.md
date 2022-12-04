@@ -8,7 +8,7 @@
 
 
 ### 💬 About Me
-- 🥇 #1 coder in college on InterviewBit, GeeksForGeeks
+- 🥇 Institute Rank 1 on CodeChef, CodeForces, GeeksForGeeks, InterviewBit
 - ⭐ 5-star HackerRank & 3-star LeetCode
 - 😎 HackerEarth Campus Ambassador
 - ✅ 1000+ DSA Questions conquered

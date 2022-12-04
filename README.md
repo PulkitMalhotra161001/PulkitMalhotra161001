@@ -28,11 +28,11 @@
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727804-31fef5f2-47f3-4830-86f8-ccbba7a1b59e.png">
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/c/PulkitMalhotra" target="_blank">
+  <a href="https://medium.com/@Pulkit_Malhotra" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727800-1ceedcbb-919b-4ac9-a460-97d7e9c3be03.png">
   </a>
   &nbsp;
-  <a href="https://medium.com/@Pulkit_Malhotra" target="_blank">
+  <a href="https://www.youtube.com/c/PulkitMalhotra" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727803-f2147184-06c7-4a39-9a74-da47f3e2f880.png">
   </a>
   

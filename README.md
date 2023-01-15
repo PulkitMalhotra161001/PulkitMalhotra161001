@@ -50,29 +50,30 @@
   
   <br>
   <br>
+ 
   
   <a href="https://www.hackerrank.com/pulkit161001" target="_blank">
-    <img  height="50px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728321-5597e642-cc4e-4833-a499-6535d7f8cf41.png">
+    <img  height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728321-5597e642-cc4e-4833-a499-6535d7f8cf41.png">
   </a>
   &nbsp;
   <a href="https://www.interviewbit.com/profile/pulkit161001" target="_blank">
-    <img height="50px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728585-448c0997-ad9c-4949-a47a-5c3f2ff0d1e3.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728585-448c0997-ad9c-4949-a47a-5c3f2ff0d1e3.png">
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/pulkit161001" target="_blank">
-    <img height="50px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png">
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/pulkitmalhotra1610" target="_blank">
-    <img height="50px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476287-dee85e56-04b7-403c-8269-3455f052eb62.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476287-dee85e56-04b7-403c-8269-3455f052eb62.png">
   </a>
   &nbsp;
   <a href="https://leetcode.com/pulkit161001" target="_blank">
-    <img height="50px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728579-3f9af06c-0977-4d51-a81a-2ac828fc2d23.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728579-3f9af06c-0977-4d51-a81a-2ac828fc2d23.png">
   </a>
   &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/pulkit161001/profile" target="_blank">
-    <img height="50px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728583-3b581a30-c79b-42b5-ac31-8f246fb7ba3a.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728583-3b581a30-c79b-42b5-ac31-8f246fb7ba3a.png">
   </a>
 
 </p>

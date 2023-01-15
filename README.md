@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave" alt="Jokes Card" />
+<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
  
 <p align="left">
   <a href="https://twitter.com/PulkitMalhotraa" target="_blank">
@@ -85,9 +85,6 @@
 
  ![Pulkit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true)  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) 
  
-
-
-
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>

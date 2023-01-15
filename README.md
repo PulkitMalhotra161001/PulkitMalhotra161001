@@ -2,7 +2,7 @@
 
 <p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=My+self+Pulkit+Malhotra;I'm+android+developer;I'm+web+developer;I'm+competitive+programmer;I'm+game+developer;I'm+LeetCoder">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=My+self+Pulkit+Malhotra;I'm+a+android+developer;I'm+a+web+developer;I'm+a+competitive+programmer;I'm+a+game+developer;I'm+a+LeetCoder;I'm+a+Open+Source+Contributor">
   </a>
 </p>
 

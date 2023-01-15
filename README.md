@@ -13,7 +13,7 @@
  
 
 
-### About Me <img src='https://user-images.githubusercontent.com/63710339/212554762-d6e4589d-81d5-4785-897c-28cea1889fde.gif' height='15"'>
+### About Me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 - 🥇 Institute Rank 1 on CodeChef, CodeForces, GeeksforGeeks, InterviewBit
 - ⭐ 3-star CodeChef, 3-star LeetCode, 5-star HackerRank
 - 😎 HackerEarth Campus Ambassador
@@ -93,7 +93,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:pulkit161001@gmail.com'>pulkit161001@gmail.com</a>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:pulkit161001@gmail.com'>pulkit161001@gmail.com</a>
 </p>
  
  <p align='center'>

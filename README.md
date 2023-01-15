@@ -1,10 +1,17 @@
 ## Hey there, I'm Pulkit Malhotra <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-<img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
 
-*A 2023 Passout B.Tech CSE student from Haryana, India.*
-
+<p align="left">
+ <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+android+developer;I'm+web+developer;I'm+competitive+programmer">
+  </a>
+</p>
 
 ---
+<a href="https://leetcode.com/pulkit161001" target="_blank">
+<!-- <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?hide=ranking&border=0&radius=20' width='400"'> -->
+  <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave" alt="Jokes Card" />
+ </a>
+ 
 
 
 ### 💬 About Me
@@ -77,7 +84,7 @@
 
 <img src="https://github.com/PulkitMalhotra161001/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
 
-| ![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) |
+| ![Pulkit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PulkitMalhotra161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PulkitMalhotra161001&theme=github_dark&layout=compact)](https://github.com/PulkitMalhotra161001/github-readme-stats) |
 | --- | --- |
  
 
@@ -91,5 +98,9 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:pulkit161001@gmail.com'>pulkit161001@gmail.com</a>
 </p>
-
+ 
+ <p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=PulkitMalhotra161001">
+ </p>
+ 
  </details>

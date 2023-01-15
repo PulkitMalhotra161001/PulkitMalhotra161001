@@ -25,27 +25,27 @@
  
 <p align="left">
   <a href="https://twitter.com/PulkitMalhotraa" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727796-29c208f4-e6b3-403f-b7f6-94b7fa4a6b58.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727796-29c208f4-e6b3-403f-b7f6-94b7fa4a6b58.png">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/thepulkitmalhotra" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
   </a>
   &nbsp;
   <a href="https://pulkitmalhotra161001.github.io/" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727804-31fef5f2-47f3-4830-86f8-ccbba7a1b59e.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727804-31fef5f2-47f3-4830-86f8-ccbba7a1b59e.png">
   </a>
   &nbsp;
   <a href="https://dev.to/pulkitmalhotra" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476941-8b101660-4bba-474a-b206-3c0d33ef7886.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476941-8b101660-4bba-474a-b206-3c0d33ef7886.png">
   </a>
   &nbsp;
   <a href="https://medium.com/@Pulkit_Malhotra" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727800-1ceedcbb-919b-4ac9-a460-97d7e9c3be03.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727800-1ceedcbb-919b-4ac9-a460-97d7e9c3be03.png">
   </a>
   &nbsp;
   <a href="https://www.youtube.com/c/PulkitMalhotra" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727803-f2147184-06c7-4a39-9a74-da47f3e2f880.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727803-f2147184-06c7-4a39-9a74-da47f3e2f880.png">
   </a>
   
   <br>
@@ -53,27 +53,27 @@
  
   
   <a href="https://www.hackerrank.com/pulkit161001" target="_blank">
-    <img  height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728321-5597e642-cc4e-4833-a499-6535d7f8cf41.png">
+    <img  height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728321-5597e642-cc4e-4833-a499-6535d7f8cf41.png">
   </a>
   &nbsp;
   <a href="https://www.interviewbit.com/profile/pulkit161001" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728585-448c0997-ad9c-4949-a47a-5c3f2ff0d1e3.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728585-448c0997-ad9c-4949-a47a-5c3f2ff0d1e3.png">
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/pulkit161001" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png">
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/pulkitmalhotra1610" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476287-dee85e56-04b7-403c-8269-3455f052eb62.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476287-dee85e56-04b7-403c-8269-3455f052eb62.png">
   </a>
   &nbsp;
   <a href="https://leetcode.com/pulkit161001" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728579-3f9af06c-0977-4d51-a81a-2ac828fc2d23.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728579-3f9af06c-0977-4d51-a81a-2ac828fc2d23.png">
   </a>
   &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/pulkit161001/profile" target="_blank">
-    <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728583-3b581a30-c79b-42b5-ac31-8f246fb7ba3a.png">
+    <img height="40px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728583-3b581a30-c79b-42b5-ac31-8f246fb7ba3a.png">
   </a>
 
 </p>

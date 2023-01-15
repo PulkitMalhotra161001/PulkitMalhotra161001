@@ -8,7 +8,7 @@
 
 ---
 <a href="https://leetcode.com/pulkit161001" target="_blank">
- <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?hide=ranking&border=0&radius=20' width='320"'>
+ <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?hide=ranking&border=0&radius=20' width='321"'>
 </a>
  
 

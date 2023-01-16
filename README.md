@@ -7,9 +7,8 @@
 </p>
 
 ---
-<a href="https://leetcode.com/pulkit161001" target="_blank">
- <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?hide=ranking&border=0&radius=21' width='320"'>
-</a>
+<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
+
  
 
 
@@ -21,7 +20,13 @@
 
 ---
 
-<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
+<a href="https://leetcode.com/pulkit161001" target="_blank">
+ <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?hide=ranking&border=0&radius=21' width='320"'>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/pulkit161001/profile" target="_blank">
+ <img align="right" src='https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=pulkit161001' width='240"'>
+</a>
+
  
 <p align="left">
   <a href="https://twitter.com/PulkitMalhotraa" target="_blank">

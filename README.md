@@ -85,7 +85,7 @@
 
 
 <details>
-<summary>More Details</summary>
+<summary>Don't Click Here</summary>
 
 <img src="https://github.com/PulkitMalhotra161001/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
 

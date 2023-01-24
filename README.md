@@ -1,4 +1,4 @@
-<!-- ## Hey there, I'm Pulkit Malhotra <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> -->
+ <!-- ## Hey there, I'm Pulkit Malhotra <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> -->
 
 <p align="left">
  <a href="https://git.io/typing-svg" target="_blank">

@@ -16,7 +16,7 @@
 - 🥇 Institute Rank 1 on CodeChef, CodeForces, GeeksforGeeks, InterviewBit
 - ⭐ 3-star CodeChef, 3-star LeetCode, 5-star HackerRank
 - 😎 HackerEarth Campus Ambassador
-- ✅ 1500+ DSA Questions conquered
+- ✅ 2000+ DSA Questions conquered
 
 ---
 

@@ -14,9 +14,9 @@
 
 ### About Me <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 - 🥇 Institute Rank 1 on CodeChef, CodeForces, GeeksforGeeks, InterviewBit
-- ⭐ 3-star CodeChef, 3-star LeetCode, 5-star HackerRank
+- ⭐ 4-star CodeChef, 3-star LeetCode, Expert CodeForces
 - 😎 HackerEarth Campus Ambassador
-- ✅ 2000+ DSA Questions conquered
+- ✅ 4000+ DSA Questions conquered
 
 ---
 

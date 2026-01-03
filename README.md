@@ -29,7 +29,7 @@
 
  
 <p align="left">
-  <a href="https://twitter.com/PulkitMalhotraa" target="_blank">
+  <a href="https://twitter.com/pulkit161001" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727796-29c208f4-e6b3-403f-b7f6-94b7fa4a6b58.png">
   </a>
   &nbsp;

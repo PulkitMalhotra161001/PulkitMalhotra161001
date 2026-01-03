@@ -33,7 +33,7 @@
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727796-29c208f4-e6b3-403f-b7f6-94b7fa4a6b58.png">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/thepulkitmalhotra" target="_blank">
+  <a href="https://www.linkedin.com/in/pulkit161001" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
   </a>
   &nbsp;

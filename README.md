@@ -21,10 +21,10 @@
 ---
 
 <a href="https://leetcode.com/pulkit161001" target="_blank">
- <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?border=0&radius=21' width='310"'>
+ <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?border=0&radius=21&ext=heatmap' width='310"'>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/pulkit161001/profile" target="_blank">
- <img align="right" src='https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=pulkit161001' width='210"'>
+ <img align="right" src='https://codeforces-readme-stats.vercel.app/api/card?username=pulkit161001&theme=highcontrast&force_username=true' width='210"'>
 </a>
 
  

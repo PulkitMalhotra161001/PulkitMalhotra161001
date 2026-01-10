@@ -23,7 +23,7 @@
 <a href="https://leetcode.com/pulkit161001" target="_blank">
  <img align="right" src='https://leetcard.jacoblin.cool/pulkit161001?border=0&radius=21&ext=heatmap' width='310"'>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/pulkit161001/profile" target="_blank">
+<a href="https://codeforces.com/profile/pulkit161001" target="_blank">
  <img align="right" src='https://codeforces-readme-stats.vercel.app/api/card?username=pulkit161001&theme=highcontrast&force_username=true' width='210"'>
 </a>
 
@@ -41,11 +41,11 @@
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727804-31fef5f2-47f3-4830-86f8-ccbba7a1b59e.png">
   </a>
   &nbsp;
-  <a href="https://dev.to/pulkitmalhotra" target="_blank">
+  <a href="https://dev.to/pulkit161001" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/205476941-8b101660-4bba-474a-b206-3c0d33ef7886.png">
   </a>
   &nbsp;
-  <a href="https://medium.com/@Pulkit_Malhotra" target="_blank">
+  <a href="https://medium.com/@pulkit161001" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727800-1ceedcbb-919b-4ac9-a460-97d7e9c3be03.png">
   </a>
   &nbsp;

@@ -87,7 +87,7 @@
 <details>
 <summary>Don't Click Here</summary>
 
-<img src="https://github.com/pulkit161001/pulkit161001/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/pulkit161001/pulkit161001/blob/output/github-snake-dark.svg">
 
 | ![Pulkit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pulkit161001&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pulkit161001&theme=github_dark&layout=compact)](https://github.com/pulkit161001/github-readme-stats) |
 |---|---|
